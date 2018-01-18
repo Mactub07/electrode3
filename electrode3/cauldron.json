@@ -1,7 +1,7 @@
 {
   "nativeApps": [
     {
-      "name": "MyApp",
+      "name": "electrode3",
       "platforms": [
         {
           "name": "ios",
