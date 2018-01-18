@@ -1,0 +1,25 @@
+{
+  "nativeApps": [
+    {
+      "name": "MyApp",
+      "platforms": [
+        {
+          "name": "ios",
+          "config": {
+            "containerGenerator":{
+              "name":"github",
+              "targetRepoUrl":"git@github.com:mactub07/electrode2.git",
+              "containerVersion":"0.0.1",
+              "publishers":[
+                {
+                  "name":"github",
+                  "url":"git@github.com:mactub07/electrode2.git"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
