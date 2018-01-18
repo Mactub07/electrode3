@@ -9,7 +9,7 @@
             "containerGenerator":{
               "name":"github",
               "targetRepoUrl":"git@github.com:mactub07/electrode3.git",
-              "containerVersion":"0.0.1",
+              "containerVersion":"1.0.0",
               "publishers":[
                 {
                   "name":"github",
